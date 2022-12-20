@@ -2,7 +2,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "my_org/my_repo": {
+        "robinmahto/restro-pos-system": {
           "permissions": {
             "issues": "write"
           }
